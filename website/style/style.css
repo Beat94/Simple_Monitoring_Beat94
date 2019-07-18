@@ -1,0 +1,20 @@
+#good{
+	height: 16px; 
+	width: 16px; 
+	background-color: green;
+	border-radius: 8px;
+}
+
+#medium{
+	height: 16px; 
+	width: 16px; 
+	background-color: yellow;
+	border-radius: 8px;
+}
+
+#bad{
+	height: 16px; 
+	width: 16px; 
+	background-color: red;
+	border-radius: 8px;
+}
