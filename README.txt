@@ -7,6 +7,7 @@ Used Node.js-packages
 ---------------------
 - express (npm install express)
 - mysql (npm install mysql)
+- body-parser
 
 
 Installation
